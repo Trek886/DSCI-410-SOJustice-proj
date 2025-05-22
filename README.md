@@ -56,6 +56,6 @@ pandas, matplotlib.pyplot, and scipy.stats
 
 ## How to Run
 1. Clone this repo and run the data_cleaning.ipynb in the 'Data Cleaning' Folder  
-2. Move the files generated from data_cleaning.ipynb to the 'Analysis' folder
+2. Move the files generated -merged.csv, extreme_days.csv, non_extreme_days.csv from data_cleaning.ipynb to the 'Analysis' folder
 2. Run analysis.ipynb 
  
