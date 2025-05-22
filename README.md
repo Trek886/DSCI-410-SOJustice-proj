@@ -36,8 +36,7 @@ pandas, matplotlib.pyplot, and scipy.stats
   - all extreme days vs. non-extreme days  
 - **Visualizations**:  
   - Box plots comparing call volumes on extreme vs. non-extreme days  
-  - Bar chart of mean call volume by condition  
-- **Correlation**: generated a heatmap of Pearson correlations between call volume and key weather variables (`tempmax`, `tempmin`, `windspeed`, `precip`, `snow`)
+  - Bar chart of mean call volume by condition
 
 ## Key Findings
 - Only **Very Hot Days (>97 °F)** showed a significant increase in call volume (t=3.5, p=0.002)  
